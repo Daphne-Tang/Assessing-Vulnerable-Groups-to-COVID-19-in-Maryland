@@ -17,4 +17,12 @@ In 2020, the COVID-19 pandemic has spread across the United States.
 
 ## Data Answer
 
+[Maryland Confirmed COVID-19 Deaths By Age]
+
+The graph demonstrates that confirmed deaths are higher for older individuals and that the gap has increased throughout the course of the pandemic. 
+
+[Maryland Confirmed COVID-19 Deaths By Race]
+
+[Maryland Confirmed COVID-19 Deaths By Gender]
+
 ## Business Answer
