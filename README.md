@@ -1,8 +1,13 @@
 # Assessing-Vulnerable-Groups-to-COVID-19-in-Maryland
 
+## Background 
+In 2020, the COVID-19 pandemic has spread across the United States.
+
 ## Business Question
+* How should Maryland distribute resources to support the most vulnerable groups to COVID-19?
 
 ## Data Question
+* What do confirmed COVID-19 deaths in Maryland look like for different age groups, races, and genders? 
 
 ## Data
 
