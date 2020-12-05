@@ -19,7 +19,7 @@ In 2020, the COVID-19 pandemic has spread across the United States.
 
 [Maryland Confirmed COVID-19 Deaths By Age]
 
-The graph demonstrates that confirmed deaths are higher for older individuals and that the gap has increased throughout the course of the pandemic. 
+Throughout the coures of the pandemic, the graph demonstrates that confirmed deaths are higher for older individuals. The gap has widened over time 
 
 [Maryland Confirmed COVID-19 Deaths By Race]
 
