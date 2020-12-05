@@ -19,11 +19,11 @@ In 2020, the COVID-19 pandemic has spread across the United States.
 
 [Maryland Confirmed COVID-19 Deaths By Age]
 
-The graph demonstrates that confirmed deaths are higher for older individuals, and the gap has widened throughout the course of the pandemic. In November, the confirmed deaths for the 80+, 70-79, and 60-69 age groups were approximately 60,000, 30,000, and 20,000 respectively. In contrast, the younger age groups had confirmed deaths around or below 10,000. The data shows that older individuals are several times as likely to die from COVID-19. 
+The graph demonstrates that confirmed deaths are higher for older individuals, and the gap has widened throughout the course of the pandemic. In November, the confirmed deaths for the 80+, 70-79, and 60-69 age groups were approximately 2,100, 1,100, and 700 respectively. In contrast, the younger age groups had confirmed deaths below 500. The data shows that older individuals are several times as likely to die from COVID-19. 
 
 [Maryland Confirmed COVID-19 Deaths By Race]
 
-The graph illustrates the presence of racial discrepancies. In November, Whites and African Americans had around 50,000 confirmed deaths. Hispanics, Asians, and Other Races had around 14,000, 5,000, and 1,000 respectively. 
+The graph illustrates the presence of racial discrepancies. In November, Whites and African Americans had around 2,000 confirmed deaths. Hispanics, Asians, and Other Races had below 500. 
 
 [Maryland Confirmed COVID-19 Deaths By Gender]
 
