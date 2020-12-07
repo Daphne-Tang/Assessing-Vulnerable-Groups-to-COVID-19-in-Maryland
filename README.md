@@ -10,7 +10,7 @@ In 2020, the COVID-19 pandemic has spread across the United States.
 * What do confirmed COVID-19 deaths in Maryland look like for different age groups, races, and genders? 
 
 ## Data
-This analysis used datasets from [Maryland Open Data](https://opendata.maryland.gov). The program provides transparency about trends within the state such that 
+This analysis used datasets from [Maryland Open Data](https://opendata.maryland.gov). The program provides transparency about state trends to facilitate decision and policy-making.
 * [Maryland Confirmed COVID-19 Deaths By Age](https://github.com/Daphne-Tang/Assessing-Vulnerable-Groups-to-COVID-19-in-Maryland/blob/main/MD_COVID-19_-_Confirmed_Deaths_by_Age_Distribution.csv)
 * [Maryland Confirmed COVID-19 Deaths By Race](https://github.com/Daphne-Tang/Assessing-Vulnerable-Groups-to-COVID-19-in-Maryland/blob/main/MD_COVID-19_-_Confirmed_Deaths_by_Race_and_Ethnicity_Distribution.csv)
 * [Maryland Confirmed COVID-19 Deaths By Gender](https://github.com/Daphne-Tang/Assessing-Vulnerable-Groups-to-COVID-19-in-Maryland/blob/main/MD_COVID-19_-_Confirmed_Deaths_by_Gender_Distribution.csv)
