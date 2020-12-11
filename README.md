@@ -17,6 +17,8 @@ This analysis used datasets from [Maryland Open Data](https://opendata.maryland.
 
 ## Data Answer
 
+Please refer to the Python analysis conducted in Google Colaboratory [here.](https://github.com/Daphne-Tang/Assessing-Vulnerable-Groups-to-COVID-19-in-Maryland/blob/main/Python_in_Google_Colaboratory.ipynb)
+
 ![alt text](https://github.com/Daphne-Tang/Assessing-Vulnerable-Groups-to-COVID-19-in-Maryland/blob/main/Maryland%20Cumulative%20Confirmed%20COVID-19%20Deaths%20By%20Age.png)
 
 The graph demonstrates that confirmed deaths are higher for older individuals, and the gap has widened throughout the course of the pandemic. In November, the confirmed deaths for the 80+, 70-79, and 60-69 age groups were approximately 2,100, 1,100, and 700 respectively. In contrast, the younger age groups had confirmed deaths below 500. The data shows that older individuals are several times as likely to die from COVID-19. 
