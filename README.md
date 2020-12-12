@@ -1,7 +1,7 @@
 # Assessing-Vulnerable-Groups-to-COVID-19-in-Maryland
 
 ## Background 
-In 2020, the COVID-19 pandemic has spread across the United States.
+In 2020, the COVID-19 pandemic has spread across the United States. According to the Johns Hopkins University [Coronavirus Resource Center](https://coronavirus.jhu.edu/region/us/maryland), Maryland had 228,471 cases and 5,064 deaths as of December 12, 2020. The Maryland Department of Health has taken action to address the COVID-19 pandemic, including expanding testing, increasing contract tracing, and sharing guidelines to mitigate the risk of contracting the virus. With the winter months looming ahead, however, the situation could worsen before improving. A critical factor in Maryland's recovery is the distribution of recently approved vaccines, but the question of how to distribute resources remains.
 
 ## Business Question
 * How should Maryland distribute resources to support the most vulnerable groups to COVID-19?
@@ -33,4 +33,4 @@ The graph demonstrates that there are not major gender discrepancies in COVID-19
 
 ## Business Answer
 
-With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should protect the most vulnerable populations first in order to prevent more deaths and spread.
+With the COVID-19 pandemic escalating in severity, the distribution of resources, especially vaccines, to combat the virus is becoming increasingly important. State governments should protect the most vulnerable populations first in order to prevent more deaths and spread. This data analysis reveals that older age groups and minorities tend to have higher risks of COVID-19, but more analysis needs to be done. In particular, I would like to analyze Maryland's demographic data to compare each group's percentage of total population with its percentage of COVID-19 confirmed deaths.  
